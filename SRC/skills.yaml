@@ -1,0 +1,11 @@
+categories:
+  - &lang 
+    Languages
+
+
+skills:
+- name: C++
+  level: junior
+  category: *lang 
+  labels:
+    - programming

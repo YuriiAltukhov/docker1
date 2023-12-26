@@ -1,0 +1,10 @@
+details:
+  first_name: Юрий
+  last_name: Алтухов
+  title: Студент
+
+
+contact:
+- text: ualtuhov7@gmail.com
+  icon: gmail
+technical: []
